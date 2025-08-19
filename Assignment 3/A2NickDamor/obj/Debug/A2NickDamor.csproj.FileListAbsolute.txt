@@ -1,0 +1,11 @@
+C:\Users\nickd\source\repos\A2NickDamor\bin\Debug\A2NickDamor.exe.config
+C:\Users\nickd\source\repos\A2NickDamor\bin\Debug\A2NickDamor.exe
+C:\Users\nickd\source\repos\A2NickDamor\bin\Debug\A2NickDamor.pdb
+C:\Users\nickd\source\repos\A2NickDamor\bin\Debug\ConsoleTables.dll
+C:\Users\nickd\source\repos\A2NickDamor\bin\Debug\ConsoleTables.pdb
+C:\Users\nickd\source\repos\A2NickDamor\obj\Debug\A2NickDamor.csproj.AssemblyReference.cache
+C:\Users\nickd\source\repos\A2NickDamor\obj\Debug\A2NickDamor.csproj.CoreCompileInputs.cache
+C:\Users\nickd\source\repos\A2NickDamor\obj\Debug\A2NickDa.2540D6F2.Up2Date
+C:\Users\nickd\source\repos\A2NickDamor\obj\Debug\A2NickDamor.exe
+C:\Users\nickd\source\repos\A2NickDamor\obj\Debug\A2NickDamor.pdb
+C:\Users\nickd\source\repos\A2NickDamor\obj\Debug\A2NickDamor.exe.config

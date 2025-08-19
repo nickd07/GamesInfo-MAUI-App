@@ -1,0 +1,91 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = A3_nickdamor
+build_property.ProjectDir = C:\Users\nickd\source\repos\A3_nickdamor\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/nickd/source/repos/A3_nickdamor/AddGamePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A3_nickdamor.AddGamePage.xaml
+build_metadata.AdditionalFiles.TargetPath = AddGamePage.xaml
+build_metadata.AdditionalFiles.RelativePath = AddGamePage.xaml
+
+[C:/Users/nickd/source/repos/A3_nickdamor/AddPlayerPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A3_nickdamor.AddPlayerPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AddPlayerPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AddPlayerPage.xaml
+
+[C:/Users/nickd/source/repos/A3_nickdamor/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A3_nickdamor.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/nickd/source/repos/A3_nickdamor/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A3_nickdamor.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/nickd/source/repos/A3_nickdamor/GameDetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A3_nickdamor.GameDetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = GameDetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = GameDetailsPage.xaml
+
+[C:/Users/nickd/source/repos/A3_nickdamor/GamePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A3_nickdamor.GamePage.xaml
+build_metadata.AdditionalFiles.TargetPath = GamePage.xaml
+build_metadata.AdditionalFiles.RelativePath = GamePage.xaml
+
+[C:/Users/nickd/source/repos/A3_nickdamor/GamesPlayersPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A3_nickdamor.GamesPlayersPage.xaml
+build_metadata.AdditionalFiles.TargetPath = GamesPlayersPage.xaml
+build_metadata.AdditionalFiles.RelativePath = GamesPlayersPage.xaml
+
+[C:/Users/nickd/source/repos/A3_nickdamor/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A3_nickdamor.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = HomePage.xaml
+
+[C:/Users/nickd/source/repos/A3_nickdamor/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A3_nickdamor.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/nickd/source/repos/A3_nickdamor/PlayerPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A3_nickdamor.PlayerPage.xaml
+build_metadata.AdditionalFiles.TargetPath = PlayerPage.xaml
+build_metadata.AdditionalFiles.RelativePath = PlayerPage.xaml
+
+[C:/Users/nickd/source/repos/A3_nickdamor/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A3_nickdamor.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/nickd/source/repos/A3_nickdamor/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A3_nickdamor.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

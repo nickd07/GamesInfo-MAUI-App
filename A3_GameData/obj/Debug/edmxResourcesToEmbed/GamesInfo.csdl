@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GamesInfoModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="GamePlayer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="GameId" Type="Int32" Nullable="false" />
+    <Property Name="PlayerId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Game">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Icon" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Developer" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DevIcon" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="GameBlurb" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Player">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nickname" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Surname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="GamesInfoEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="GamePlayers" EntityType="Self.GamePlayer" />
+    <EntitySet Name="Games" EntityType="Self.Game" />
+    <EntitySet Name="Players" EntityType="Self.Player" />
+  </EntityContainer>
+</Schema>

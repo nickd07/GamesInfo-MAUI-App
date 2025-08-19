@@ -1,0 +1,25 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="A3_nickdamor.AddGamePage"
+             Title="Add Game">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+
+            <Label Text="Game Name" />
+            <Entry x:Name="entryName" Placeholder="Enter name" />
+
+            <Label Text="Developer" />
+            <Entry x:Name="entryDeveloper" Placeholder="Enter developer" />
+
+            <Label Text="Game Blurb" />
+            <Editor x:Name="entryBlurb" Placeholder="Enter description" AutoSize="TextChanges" />
+
+            <Label Text="Image URL" />
+            <Entry x:Name="entryIcon" Placeholder="http://..." />
+
+            <Button Text="Save Game" Clicked="OnSaveClicked" BackgroundColor="DarkBlue" TextColor="White"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

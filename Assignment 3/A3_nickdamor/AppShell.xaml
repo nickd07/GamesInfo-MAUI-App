@@ -1,0 +1,27 @@
+<Shell
+    x:Class="A3_nickdamor.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:pages="clr-namespace:A3_nickdamor">
+
+    <FlyoutItem Title="Home" Icon="dotnet_bot.png">
+        <ShellContent ContentTemplate="{DataTemplate pages:HomePage}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Games" Icon="dotnet_bot.png">
+        <ShellContent ContentTemplate="{DataTemplate pages:GamePage}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Players" Icon="dotnet_bot.png">
+        <ShellContent ContentTemplate="{DataTemplate pages:PlayerPage}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Games Players" Icon="dotnet_bot.png">
+        <ShellContent ContentTemplate="{DataTemplate pages:GamesPlayersPage}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Add Player" Icon="dotnet_bot.png">
+        <ShellContent ContentTemplate="{DataTemplate pages:AddPlayerPage}" />
+    </FlyoutItem>
+
+</Shell>

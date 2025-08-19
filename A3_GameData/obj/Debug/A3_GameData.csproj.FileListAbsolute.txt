@@ -1,0 +1,12 @@
+C:\Users\nickd\source\repos\A3_GameData\bin\Debug\A3_GameData.dll.config
+C:\Users\nickd\source\repos\A3_GameData\bin\Debug\A3_GameData.dll
+C:\Users\nickd\source\repos\A3_GameData\bin\Debug\A3_GameData.pdb
+C:\Users\nickd\source\repos\A3_GameData\bin\Debug\EntityFramework.dll
+C:\Users\nickd\source\repos\A3_GameData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nickd\source\repos\A3_GameData\bin\Debug\EntityFramework.xml
+C:\Users\nickd\source\repos\A3_GameData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nickd\source\repos\A3_GameData\obj\Debug\A3_GameData.csproj.AssemblyReference.cache
+C:\Users\nickd\source\repos\A3_GameData\obj\Debug\A3_GameData.csproj.CoreCompileInputs.cache
+C:\Users\nickd\source\repos\A3_GameData\obj\Debug\A3_GameD.1E5012B3.Up2Date
+C:\Users\nickd\source\repos\A3_GameData\obj\Debug\A3_GameData.dll
+C:\Users\nickd\source\repos\A3_GameData\obj\Debug\A3_GameData.pdb
